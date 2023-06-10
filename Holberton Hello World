@@ -1,0 +1,7 @@
+$ touch HelloWorld.sh
+$ nano HelloWorld.sh
+#!/bin/sh
+# This is bash program to display Hello World
+echo " Hello World "
+$ chmod +x HelloWorld.sh
+$ ./Helloworld.sh  
